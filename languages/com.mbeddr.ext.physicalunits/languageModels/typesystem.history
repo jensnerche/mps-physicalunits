@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="2qjx" modelUID="r:4a697b08-3e5b-4536-9d5c-2eec7aa7093f(com.mbeddr.ext.physicalunits.editor)" version="-1" />
+      <model index="ym4j" modelUID="r:cf0df747-2506-460f-a33d-eb236a605ee8(com.mbeddr.ext.physicalunits.structure)" version="10" />
+      <model index="f8kz" modelUID="r:b253d525-654a-49d7-93c3-2216e07916d7(com.mbeddr.ext.physicalunits.actions)" version="-1" />
+      <model index="lc0a" modelUID="r:381ce770-1d81-4968-9e9e-42e5aecb45f7(com.mbeddr.ext.physicalunits.intentions)" version="-1" />
+      <model index="nwvk" modelUID="r:08489894-de9d-414a-ae8b-b02336f9decd(com.mbeddr.ext.physicalunits.scripts)" version="-1" />
+      <model index="degp" modelUID="r:dc7a9f49-e64f-46f7-922d-cb1bc396eedc(com.mbeddr.ext.physicalunits.constraints)" version="-1" />
+      <model index="aige" modelUID="r:8ef3a507-0711-4f94-9e9e-f4e9765f9b94(com.mbeddr.ext.physicalunits.behavior)" version="-1" />
+      <model index="mlli" modelUID="r:6c5e1d37-31d6-484d-b273-90ad2260db01(com.mbeddr.ext.physicalunits.typesystem)" version="-1" />
+    </dependencies>
+    <RenameModel oldModel="r:4a697b08-3e5b-4536-9d5c-2eec7aa7093f(com.mbeddr.ext.physicalunits.editor)" newModel="r:4a697b08-3e5b-4536-9d5c-2eec7aa7093f(de.nerche.mps.physicalunits.editor)" />
+    <RenameModel oldModel="r:b253d525-654a-49d7-93c3-2216e07916d7(com.mbeddr.ext.physicalunits.actions)" newModel="r:b253d525-654a-49d7-93c3-2216e07916d7(de.nerche.mps.physicalunits.actions)" />
+    <RenameModel oldModel="r:08489894-de9d-414a-ae8b-b02336f9decd(com.mbeddr.ext.physicalunits.scripts)" newModel="r:08489894-de9d-414a-ae8b-b02336f9decd(de.nerche.mps.physicalunits.scripts)" />
+    <RenameModel oldModel="r:8ef3a507-0711-4f94-9e9e-f4e9765f9b94(com.mbeddr.ext.physicalunits.behavior)" newModel="r:8ef3a507-0711-4f94-9e9e-f4e9765f9b94(de.nerche.mps.physicalunits.behavior)" />
+    <RenameModel oldModel="r:cf0df747-2506-460f-a33d-eb236a605ee8(com.mbeddr.ext.physicalunits.structure)" newModel="r:cf0df747-2506-460f-a33d-eb236a605ee8(de.nerche.mps.physicalunits.structure)" />
+    <RenameModel oldModel="r:381ce770-1d81-4968-9e9e-42e5aecb45f7(com.mbeddr.ext.physicalunits.intentions)" newModel="r:381ce770-1d81-4968-9e9e-42e5aecb45f7(de.nerche.mps.physicalunits.intentions)" />
+    <RenameModel oldModel="r:6c5e1d37-31d6-484d-b273-90ad2260db01(com.mbeddr.ext.physicalunits.typesystem)" newModel="r:6c5e1d37-31d6-484d-b273-90ad2260db01(de.nerche.mps.physicalunits.typesystem)" />
+    <RenameModel oldModel="r:dc7a9f49-e64f-46f7-922d-cb1bc396eedc(com.mbeddr.ext.physicalunits.constraints)" newModel="r:dc7a9f49-e64f-46f7-922d-cb1bc396eedc(de.nerche.mps.physicalunits.constraints)" />
+  </StructureModification>
+</history>
+
